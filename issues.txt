@@ -1,0 +1,4 @@
+badgateway | open | Alex | Adi
+request | open | Gicu | Adi
+destroy | open | Gabor | Adi
+game | open | Alex | 

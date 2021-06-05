@@ -1,0 +1,6 @@
+Gicu | tester
+Gabor | tester
+Vlad | programmer
+Alex | tester
+John | programmer
+Adi | programmer
